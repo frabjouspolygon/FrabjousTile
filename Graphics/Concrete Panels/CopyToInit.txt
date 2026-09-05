@@ -1,0 +1,8 @@
+-["Concrete Panels", color(248, 240, 210)]
+[#nm:"Concrete Panel Small", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:3, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Concrete Panel Medium 1", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:4, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Concrete Panel NW", #sz:point(1,1), #specs:[3], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:3, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Concrete Panel NE", #sz:point(1,1), #specs:[2], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:3, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Concrete Panel SE", #sz:point(1,1), #specs:[4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:3, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Concrete Panel SW", #sz:point(1,1), #specs:[5], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:3, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Concrete Panel Floor", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[6,1,1,2], #bfTiles:0, #rnd:3, #ptPos:0, #tags:["notTrashProp"]]
