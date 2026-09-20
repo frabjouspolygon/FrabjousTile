@@ -12,6 +12,7 @@
 [#nm:"Garden Branch", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(9,18), #repeatL:[1], #vars:4, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Garden Branch Detail", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(9,18), #repeatL:[1], #vars:8, #random:0, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Garden Foliage", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(9,11), #repeatL:[1], #vars:5, #random:1, #tags:["effectColorB", "randomFlipX", "randomFlipY", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Broad Leaf Tree A", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(16,17), #repeatL:[1], #vars:2, #random:0, #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Prop Wall Ivy", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(2,2), #repeatL:[1], #vars:14, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Algae Stain", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(2,10), #repeatL:[1], #vars:4, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Grunge Algae", #tp:"variedDecal", #pxlSize:point(40, 200), #vars:16, #random:0, #depth:3, #tags:["notTrashProp"], #notes:[]]
