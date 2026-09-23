@@ -94,3 +94,4 @@
 [#nm:"Hole Panel 2", #sz:point(2,2), #specs:[0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:6, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Hole Panel 3", #sz:point(3,3), #specs:[0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:6, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Hole Panel 4", #sz:point(4,4), #specs:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:6, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"FPolygon`s Severed Head", #sz:point(8,8), #specs:[0,0,3,1,1,5,0,0,0,3,1,1,1,1,5,0,3,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,4,0,2,1,1,1,1,4,0,0,0,2,1,1,4,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
